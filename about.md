@@ -10,3 +10,8 @@ titles:
   # @end locale config
 key: page-about
 ---
+
+Updates coming soon. 
+
+
+Wait for it
