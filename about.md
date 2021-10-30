@@ -9,6 +9,7 @@ titles:
   en-AU   : *EN
   # @end locale config
 key: page-about
+comments: false
 ---
 
 Updates coming soon. 
