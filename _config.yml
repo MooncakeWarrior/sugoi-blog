@@ -20,9 +20,9 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Monark's Games Blog
+title   : Monark's Sugoi Blog
 description: > # this means to ignore newlines until "Language & timezone"
-  A blog about me playing various games
+  A blog about uhm less appropriate content
 
 
 ## => Language and Timezone
@@ -35,12 +35,12 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Wong Yik Xiang
+  name      : 
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : Studing Computer Science
+  bio       : 
   email     :
-  facebook  : wong.yikxiang.9 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: MooncakeWarrior/games-blog
+repository: MooncakeWarrior/sugoi
 repository_tree: master
 
 
@@ -118,7 +118,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
